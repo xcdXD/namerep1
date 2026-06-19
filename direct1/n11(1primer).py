@@ -7,3 +7,5 @@ for bykvi in range(1,10000):
      sernum = ceil(172 * i / 8)
      if 187564 * sernum <= 39 * 2 ** 20:
          print(bykvi)
+          
+#endregion
