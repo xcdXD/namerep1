@@ -1,4 +1,5 @@
 #region колонка слов
+#ну где 1.AAAAA и т.д
 
 from itertools import *
 
